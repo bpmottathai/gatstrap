@@ -1,0 +1,50 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-7353c988fab919f67bdb.js>; rel=preload; as=script
+  Link: </app-e403cafda9948f250533.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-3ecff4b9a6a77b5e2aab.js>; rel=preload; as=script
+/markdown/
+  Link: </webpack-runtime-7353c988fab919f67bdb.js>; rel=preload; as=script
+  Link: </app-e403cafda9948f250533.js>; rel=preload; as=script
+  Link: </styles-47c1bfc6196f28ee4a9b.js>; rel=preload; as=script
+  Link: </1-cc85ebc7e9df773b0b26.js>; rel=preload; as=script
+  Link: </2-dd6027b8d51c72ad27e8.js>; rel=preload; as=script
+  Link: </component---src-templates-index-js-2575f044b2113cc9b1f7.js>; rel=preload; as=script
+/hello-world/
+  Link: </webpack-runtime-7353c988fab919f67bdb.js>; rel=preload; as=script
+  Link: </app-e403cafda9948f250533.js>; rel=preload; as=script
+  Link: </styles-47c1bfc6196f28ee4a9b.js>; rel=preload; as=script
+  Link: </1-cc85ebc7e9df773b0b26.js>; rel=preload; as=script
+  Link: </2-dd6027b8d51c72ad27e8.js>; rel=preload; as=script
+  Link: </component---src-templates-index-js-2575f044b2113cc9b1f7.js>; rel=preload; as=script
+/my-second-post/
+  Link: </webpack-runtime-7353c988fab919f67bdb.js>; rel=preload; as=script
+  Link: </app-e403cafda9948f250533.js>; rel=preload; as=script
+  Link: </styles-47c1bfc6196f28ee4a9b.js>; rel=preload; as=script
+  Link: </1-cc85ebc7e9df773b0b26.js>; rel=preload; as=script
+  Link: </2-dd6027b8d51c72ad27e8.js>; rel=preload; as=script
+  Link: </component---src-templates-index-js-2575f044b2113cc9b1f7.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-7353c988fab919f67bdb.js>; rel=preload; as=script
+  Link: </app-e403cafda9948f250533.js>; rel=preload; as=script
+  Link: </styles-47c1bfc6196f28ee4a9b.js>; rel=preload; as=script
+  Link: </1-cc85ebc7e9df773b0b26.js>; rel=preload; as=script
+  Link: </2-dd6027b8d51c72ad27e8.js>; rel=preload; as=script
+  Link: </component---src-pages-index-js-0e852b64db284748663e.js>; rel=preload; as=script
+/Profile/
+  Link: </webpack-runtime-7353c988fab919f67bdb.js>; rel=preload; as=script
+  Link: </app-e403cafda9948f250533.js>; rel=preload; as=script
+  Link: </styles-47c1bfc6196f28ee4a9b.js>; rel=preload; as=script
+  Link: </1-cc85ebc7e9df773b0b26.js>; rel=preload; as=script
+  Link: </10-6c5ced71c82e86e948fa.js>; rel=preload; as=script
+  Link: </component---src-pages-profile-js-b8de37fd57aade854ca7.js>; rel=preload; as=script
